@@ -76,5 +76,5 @@ This project serves as an important step towards automating career recommendatio
 
 ---
 
-📌 **GitHub Repository:** [Insert Link Here]
+📌 **GitHub Repository:** https://github.com/ahmednoor2003/Code-Flow-Project
 
